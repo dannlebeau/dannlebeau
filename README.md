@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋, I´m Dann LeBeau
+
+
+- 🌱 I’m currently learning  python through the Full Stack Python bootcamp.
+- 👀 I am interested in Web Development, Data Science and Geographic Information Systems.
+
 
 <!--
 **dannlebeau/dannlebeau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
