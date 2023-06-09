@@ -1,4 +1,8 @@
-### Hi there 👋, I´m Dann LeBeau
+[![GitHub](https://img.shields.io/badge/GitHub-@dannlebeau-success?style=flat&logo=github)](https://github.com/dannlebeau)
+[![Website](https://img.shields.io/badge/Web-site-informational?style=flat&logo=google%20earth)](#)
+[![LinkedIn](https://img.shields.io/badge/Linked-In-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jcordovafredes/)
+
+## Hi there 👋, I´m Dann LeBeau
 
 
 - 🌱 I’m currently learning  python through the Full Stack Python bootcamp.
@@ -7,7 +11,6 @@
 - 🤔 I am looking for help with Database because it is a skill that I am looking to strengthen
 - 💬 Ask me about urban planning, geography, econometric models and geographic information systems
 - 📫 How to contact me:
-[LINKEDIN](https://www.linkedin.com/in/jcordovafredes/)
 <a href="mailto:jcordovafredes@gmail.com">Gmail</a>
 
 -->
