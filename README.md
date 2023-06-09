@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning  python through the Full Stack Python bootcamp.
 - 👀 I am interested in Web Development, Data Science and Geographic Information Systems.
-- - 👯 I seek to collaborate in projects related to geography and urbanism, always supported by geographic information systems
+- 👯 I seek to collaborate in projects related to geography and urbanism, always supported by geographic information systems
 - 🤔 I am looking for help with Database because it is a skill that I am looking to strengthen
 - 💬 Ask me about urban planning, geography, econometric models and geographic information systems
 - 📫 How to contact me:
