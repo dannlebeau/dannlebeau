@@ -11,7 +11,7 @@
 - 🤔 I am looking for help with Database because it is a skill that I am looking to strengthen
 - 💬 Ask me about urban planning, geography, econometric models and geographic information systems
 - 📫 How to contact me:
-<a href="mailto:dannlebeau@gmx.com">Mail</a>
+<a href="mailto:legeographe@proton.com">Mail</a>
 
 -->
 
