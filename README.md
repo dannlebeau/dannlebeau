@@ -5,7 +5,7 @@
 ## Hi there 👋, I´m Dann LeBeau
 
 
-- 🌱 I’m currently learning  python through the Full Stack Python bootcamp.
+- 🌱 I’m currently learning JavaScript through the Full Stack JavaScript bootcamp.
 - 👀 I am interested in Web Development, Data Science and Geographic Information Systems.
 - 👯 I seek to collaborate in projects related to geography and urbanism, always supported by geographic information systems
 - 🤔 I am looking for help with Database because it is a skill that I am looking to strengthen
