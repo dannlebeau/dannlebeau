@@ -21,10 +21,17 @@
 
 <div align="center">
     <a href="https://github.com/devicons/devicon">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/devicon/devicon-original-wordmark.svg" alt="Devicon Logo" height="140" />
-        <img src="https://github.com/dannlebeau/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" alt="Anaconda Logo" height="140" />
-        
-    </a></div>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/devicon/devicon-original-wordmark.svg" alt="DeviconLogo" height="140" />
+        <img src="https://github.com/dannlebeau/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" alt="AnacondaLogo" height="140" />
+        <img src="https://github.com/dannlebeau/devicon/blob/master/icons/axios/axios-plain-wordmark.svg" alt="AxiosLogo" height="140" />
+        <img src="https://github.com/dannlebeau/devicon/blob/master/icons/bash/bash-original.svg" alt="bashLogo" height="140" />
+        <img src="https://github.com/dannlebeau/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrapLogo" height="140" />
+        <img src="https://github.com/dannlebeau/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSSLogo" height="140" />
+        <img src="https://github.com/dannlebeau/devicon/blob/master/icons/django/django-plain-wordmark.svg" alt="DjangoLogo" height="140" />
+        <img src="https://github.com/dannlebeau/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="DockerLogo" height="140" />
+        <img src="https://github.com/dannlebeau/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="GITLogo" height="140" />
+    </a>
+</div>
 
 
 <!--
