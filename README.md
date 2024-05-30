@@ -22,6 +22,8 @@
 <div align="center">
     <a href="https://github.com/devicons/devicon">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/devicon/devicon-original-wordmark.svg" alt="Devicon Logo" height="140" />
+        <img src="https://github.com/dannlebeau/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" alt="Anaconda Logo" height="140" />
+        
     </a></div>
 
 
