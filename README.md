@@ -12,10 +12,12 @@
 - 💬 Ask me about urban planning, geography, econometric models and geographic information systems
 - 📫 How to contact me:
 <a href="mailto:legeographe@proton.com">Mail</a>
+<div align="center"> 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dannlebeau&show_icons=true&theme=algolia)](https://github.com/dannlebeau/github-readme-stats)
 <br><br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dannlebeau&layout=compact)
+</div>
 
 
 
