@@ -13,7 +13,7 @@
 - 📫 How to contact me:
 <a href="mailto:legeographe@proton.com">Mail</a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dannlebeau&show_icons=true&theme=cobalt)](https://github.com/dannlebeau/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dannlebeau&show_icons=true&theme=algolia)](https://github.com/dannlebeau/github-readme-stats)
 
 
 -->
