@@ -23,6 +23,8 @@
 <!-- in your body -->
 <i class="devicon-devicon-plain"></i>
 
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-original.svg'>
+
 
 
 <!--
